@@ -1,0 +1,27 @@
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Local History for Visual Studio Code
+.history/
+
+node_modules/
+.npm
+npm-debug.log
+.vscode/*
+*.code-workspace
+Thumbs.db
+.env
+.env.local
+dist/
+coverage/
+package-lock.json
+user.js
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/tests-examples/
